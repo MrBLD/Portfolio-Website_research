@@ -79,22 +79,22 @@ export default function ExperiencePage() {
               <div className="space-y-8">
                 <TimelineItem icon={<Briefcase className="h-4 w-4" />}>
                   <h3 className="font-semibold">National Institute of Technology (NIT) Arunachal Pradesh, India</h3>
-                  <p className="text-sm text-muted-foreground">Sept' 2020 - Till Date</p>
+                  <p className="text-sm text-muted-foreground">Sept&apos; 2020 - Till Date</p>
                   <p>Nodal Officer / Faculty-in-Charge, Scholarship Cell</p>
                 </TimelineItem>
                 <TimelineItem icon={<Briefcase className="h-4 w-4" />}>
                   <h3 className="font-semibold">National Institute of Technology (NIT) Arunachal Pradesh, India</h3>
-                  <p className="text-sm text-muted-foreground">Aug' 2020 - Till Date</p>
+                  <p className="text-sm text-muted-foreground">Aug&apos; 2020 - Till Date</p>
                   <p>Head, Social Entrepreneurship, Swachhta & Engagement, Greenery in Local Village</p>
                 </TimelineItem>
                 <TimelineItem icon={<Briefcase className="h-4 w-4" />}>
                   <h3 className="font-semibold">National Institute of Technology (NIT) Arunachal Pradesh, India</h3>
-                  <p className="text-sm text-muted-foreground">Feb' 2018 - </p>
+                  <p className="text-sm text-muted-foreground">Feb&apos; 2018 - </p>
                   <p>Faculty-in-Charge, Associate Webmaster</p>
                 </TimelineItem>
                 <TimelineItem icon={<Briefcase className="h-4 w-4" />}>
                   <h3 className="font-semibold">The ICFAI University, Tripura, India</h3>
-                  <p className="text-sm text-muted-foreground">Nov' 2017 - Nov' 2019</p>
+                  <p className="text-sm text-muted-foreground">Nov&apos; 2017 - Nov&apos; 2019</p>
                   <p>Warden, Siang Hostel & Rose Hostel</p>
                 </TimelineItem>
               </div>
@@ -171,7 +171,7 @@ export default function ExperiencePage() {
               <ul className="space-y-2">
                 <li>Presented a talk on <strong><i>Clocking Strategies for PSN Reduction</i></strong> in an AICTE Sponsored Short Term Training Program on Mixed Signal Design approaches for Artificial Intelligence Processors at Lakireddy Bali Reddy College of Engineering, Mylavaram, Andhra Pradesh, 3rd February 2021, 2.00 - 4.00 pm.</li>
                 <li>Presented a talk on <strong><i>FPGA Architecture: Art Behind it</i></strong> at a Seminar organized by Department of ECE, NIT Arunachal Pradesh, India on 20th September 2016.</li>
-                <li>Presented a talk on <strong><i>Runtime Leakage Blocking and its Application to Design Low Power Memory</i></strong> at a Research Seminar at NIT Arunachal Pradesh, India on 3rd Sept' 2016.</li>
+                <li>Presented a talk on <strong><i>Runtime Leakage Blocking and its Application to Design Low Power Memory</i></strong> at a Research Seminar at NIT Arunachal Pradesh, India on 3rd Sept&apos; 2016.</li>
                 <li>Presented a talk on <strong><i>High Speed Signaling Using Copper Interconnect</i></strong> at a Research Seminar at NIT Arunachal Pradesh, India on 1st June 2015.</li>
               </ul>
             </CardContent>
@@ -225,11 +225,11 @@ export default function ExperiencePage() {
                 <li><strong><i>IEEE</i></strong> International Conference on Innovations in Electronics, Signal Processing and Communication (IESC 2017), 6th - 7th April 2017, Shillong, India.</li>
                 <li><strong><i>IEEE</i></strong> International Conference on Electrical, Electronics, Computers and Optimization Techniques (ICEECCOT 2016), 9th - 10th Dec 2016, Mysuru, India.</li>
                 <li>23rd <strong><i>IEEE</i></strong> International Conference on Electronics Circuits and Systems (ICECS - 2016) 11-14th December 2016, Monte Carlo, Monaco, France.</li>
-                <li>59th International Midwest Symposium on Circuit and System (MWSCAS - 2016), <strong><i>IEEE</i></strong>, 16th – 19th October 2016, Abu Dhabi, UAE.</li>
-                <li>2nd International Conference on Recent Advances in Engineering and Computational Sciences, <strong><i>IEEE</i></strong>, Chandigarh, 21st – 22nd December 2015.</li>
-                <li>2nd International Conference on Computer &amp; Communication Technologies, <strong><i>Springer AISC Series</i></strong>, Hyderabad, 24th – 26th July 2015.</li>
-                <li>International Conference on Industrial Instrumentation and Control, <strong><i>IEEE</i></strong>, Pune, India 28th – 30th May 2015.</li>
-                <li>2nd <strong><i>IEEE</i></strong> International Conference on Advances in Computing and Communication Engineering, Dehradun, India, 1st – 2nd May 2015.</li>
+                <li>59th International Midwest Symposium on Circuit and System (MWSCAS - 2016), <strong><i>IEEE</i></strong>, 16th - 19th October 2016, Abu Dhabi, UAE.</li>
+                <li>2nd International Conference on Recent Advances in Engineering and Computational Sciences, <strong><i>IEEE</i></strong>, Chandigarh, 21st - 22nd December 2015.</li>
+                <li>2nd International Conference on Computer &amp; Communication Technologies, <strong><i>Springer AISC Series</i></strong>, Hyderabad, 24th - 26th July 2015.</li>
+                <li>International Conference on Industrial Instrumentation and Control, <strong><i>IEEE</i></strong>, Pune, India 28th - 30th May 2015.</li>
+                <li>2nd <strong><i>IEEE</i></strong> International Conference on Advances in Computing and Communication Engineering, Dehradun, India, 1st - 2nd May 2015.</li>
               </ul>
             </CardContent>
           </Card>
@@ -243,12 +243,12 @@ export default function ExperiencePage() {
                 <li><strong><i>Technical Program Committee (TPC) Member</i></strong> at IEEE Zooming Innovation in Consumer Technologies Conference (ZINC 2021), 26-27 May 2021, Novi Sad, Serbia.,</li>
                 <li><strong><i>Technical Program Committee (TPC) Member</i></strong> at International Conference on Microelectronics and Nanoelectronics (ICoMN 2021), 19-21st February 2021, Seoul, South Korea.</li>
                 <li><strong><i>Technical Program Committee (TPC) Member</i></strong> at 14th IEEE International Conference on Application of Information and Communication Technologies (AICT 2020), 07-09th October 2020, Tashkent University of Information Technologies, Uzbekistan.</li>
-                <li><strong><i>Chair / Secretary</i></strong> at 1st Springer International Conference on Electronics Systems &amp; Intelligent Computing (ESIC 2020), 02 – 04 March 2020, NIT Arunachal Pradesh, India.</li>
+                <li><strong><i>Chair / Secretary</i></strong> at 1st Springer International Conference on Electronics Systems &amp; Intelligent Computing (ESIC 2020), 02 - 04 March 2020, NIT Arunachal Pradesh, India.</li>
                 <li><strong><i>Publicity Chair</i></strong> at 5th IEEE International Symposium on Smart Electronic Systems (IEEE iSES - 2019) on 17-19th, December 2019, NIT Rourkella, India.</li>
                 <li><strong><i>Publicity Chair</i></strong> at 4th IEEE International Symposium on Smart Electronic Systems (IEEE iSES - 2018) on 17-19th, December 2018, Hyderabad, India.</li>
                 <li><strong><i>Advisory Committee Member</i></strong> at 3rd IEEE International Conference on Electrical, Electronics, Communication, Computer Technologies and Optimization Techniques (ICEECCOT- 2018) on 14-15, December 2018, Mysuru, India.</li>
-                <li><strong><i>Technical Program Committee (TPC) member</i></strong> at 2nd International Conference on Advanced Informatics for Computing Research (ICAICR-2018), 14th – 15th July 2018, Shimla, India.</li>
-                <li><strong><i>Technical Program Committee (TPC) member</i></strong> at IFSA International Conference on Microelectronic Devices and Technologies (MicDAT’ 2018), UPC Barcelona, Spain, 20 - 22 June 2018.</li>
+                <li><strong><i>Technical Program Committee (TPC) member</i></strong> at 2nd International Conference on Advanced Informatics for Computing Research (ICAICR-2018), 14th - 15th July 2018, Shimla, India.</li>
+                <li><strong><i>Technical Program Committee (TPC) member</i></strong> at IFSA International Conference on Microelectronic Devices and Technologies (MicDAT&apos; 2018), UPC Barcelona, Spain, 20 - 22 June 2018.</li>
                 <li><strong><i>Technical Program Committee (TPC) member</i></strong> at 14th IEEE India Council International Conference (INDICON 2017), 15-17th December 2017, IIT Roorkee, India.</li>
                 <li><strong><i>Publicity Chair</i></strong> at 36th IEEE International Conference on Consumer Electronics (ICCE 2018), Las Vegas, USA.</li>
                 <li><strong><i>Publicity Chair</i></strong> at 3rd IEEE International Symposium on Nano-electronic and Information Systems (<strong><i>IEEE iNIS 2017</i></strong>), Chandigarh, India.</li>

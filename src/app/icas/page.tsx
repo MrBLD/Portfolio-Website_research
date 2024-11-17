@@ -271,7 +271,7 @@ export default function Component() {
               <CardContent>
                 <div className="flex items-start gap-12">
                     {/* Image Section */}
-               <img
+               <Image
                 src="/images/HPZ440.jpg"
                 alt="Chip Layout"
                 className="w-24 h-40 object-cover rounded-md shadow-md"
@@ -300,7 +300,7 @@ export default function Component() {
           <CardContent>
             <div className="flex items-start gap-12">
                {/* Image Section */}
-               <img
+               <Image
                 src="/images/Chip1.png"
                 alt="Chip Layout"
                 className="w-24 h-24 object-cover rounded-md shadow-md"

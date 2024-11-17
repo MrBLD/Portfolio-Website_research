@@ -100,7 +100,7 @@ const publications = {
       doi: "10.1080/00207217.2022.2158493",
     },
     {
-      title: "Pockel's Effect Inspired Toffoli Gate: An MZI Count Optimized Design and Logical Applications",
+      title: "Pockel&apos;s Effect Inspired Toffoli Gate: An MZI Count Optimized Design and Logical Applications",
       authors: "S Awasthi, B Chowdhury, SK Metya, A Majumder",
       journal: "Optical and Quantum Electronics",
       publisher: "Springer",
@@ -497,7 +497,7 @@ const publications = {
   
   },
   {
-  title: "Configuring Logic Operations from New Reversible Toffoli Gate Using Pockel's Effect of Ti: LiNbO3", 
+  title: "Configuring Logic Operations from New Reversible Toffoli Gate Using Pockel&apos;s Effect of Ti: LiNbO3", 
   authors:"S. Awasthi, S. Sharma, B. Chowdhury, G. Singh, S.K. Metya, A. Majumder",
   conference: "IEEE Region 10 Symposium (TENSYMP 2022)",
   date: "01-03 July 2022 cation:", 
@@ -925,11 +925,11 @@ export default function PublicationPage() {
     <div className="container mx-auto py-12 px-4">
       <h1 className="text-4xl font-bold text-center mb-6">Publications</h1>
       <p className="text-sm text-gray-500 text-center mb-8 italic">
-        <span className="text-red-600">Disclaimer:</span> This material is presented to ensure timely dissemination of scholarly and technical work",
+        <span className="text-red-600">Disclaimer:</span> This material is presented to ensure timely dissemination of scholarly and technical work&quot;,
         Copyright and all rights therein are retained by authors or by other copyright holders. All persons
         copying this information are expected to adhere to the terms and constraints invoked by each author&apos;s
         copyright. In most cases, these works may not be reposted without the explicit permission of the
-        copyright holder",
+        copyright holder&quot;,
       </p>
 
       <Tabs defaultValue="Books" className="w-full">
